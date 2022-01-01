@@ -28,7 +28,7 @@ pie title 2022/01/01時点のパフォーマンス分布
 
 ## 03.コンペティションの種類
 代表的なコンペは以下の通り.<br>
-その他は[link](https://www.kaggle.com/docs/competitions)を参照.<br>
+その他は[Competitions](https://www.kaggle.com/docs/competitions)を参照.<br>
 | Competitions    | 役割                                                                                         |
 | --------------- | -------------------------------------------------------------------------------------------- |
 | Getting Started | メダルがなくランキングに反映されない練習用コンペ.<br>半永久的に開催されている.<br>           |
